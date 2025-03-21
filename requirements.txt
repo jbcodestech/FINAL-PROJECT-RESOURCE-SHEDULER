@@ -1,0 +1,6 @@
+numpy
+pandas
+flask
+docker
+pytest
+Flask==2.3.2
